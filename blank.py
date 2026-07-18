@@ -1,2 +1,2 @@
-student = ["Alice", "Bob", "Charlie"]
-print(student[2])  # Output: Alice
+word = "Computer"
+print(word[-3])
