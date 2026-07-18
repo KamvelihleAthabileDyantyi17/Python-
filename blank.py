@@ -1,1 +1,2 @@
-print( '5' + '3')
+student = ["Alice", "Bob", "Charlie"]
+print(student)  # Output: Alice
